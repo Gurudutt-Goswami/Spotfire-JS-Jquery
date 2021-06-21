@@ -18,3 +18,6 @@ Most of the following screenshots have a lot of animations in them which you wil
 The following diagram is from the Spotfire textarea only, it doesn't have any resemblance with hierarchiral visualisation as far the code is concern, although it appears to be static at first glance but it includes a beautiful animation in it. I hope you will like it. You will find the code to replicate this, above.
 
 ![Hierarchy Diagram](https://user-images.githubusercontent.com/86184439/122730622-0d018f00-d298-11eb-94a8-7cefe70c26b7.PNG)
+
+### Left Panel (2)
+![Left Panel (2)](https://user-images.githubusercontent.com/86184439/122735424-a632a480-d29c-11eb-850a-fb689f35ef68.PNG)
