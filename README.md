@@ -25,3 +25,5 @@ The following diagram is from the Spotfire textarea only, it doesn't have any re
 ### Left Panel + Accordion
 ![Left Panel + Accordion](https://user-images.githubusercontent.com/86184439/122737875-18a48400-d29f-11eb-8613-dd74e07f9a82.PNG)
 
+### Mac Doc
+![Mac Doc](https://user-images.githubusercontent.com/86184439/122739989-2c50ea00-d2a1-11eb-8988-fafee8f773a0.PNG)
