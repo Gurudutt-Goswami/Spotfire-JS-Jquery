@@ -23,4 +23,5 @@ The following diagram is from the Spotfire textarea only, it doesn't have any re
 ![Left Panel (2)](https://user-images.githubusercontent.com/86184439/122735600-cfebcb80-d29c-11eb-8a82-9d6722702551.PNG)
 
 ### Left Panel + Accordion
-![Left Panel + Accordion](https://user-images.githubusercontent.com/86184439/122737474-b21f6600-d29e-11eb-9098-38f33e829d2b.PNG)
+![Left Panel + Accordion](https://user-images.githubusercontent.com/86184439/122737875-18a48400-d29f-11eb-8613-dd74e07f9a82.PNG)
+
