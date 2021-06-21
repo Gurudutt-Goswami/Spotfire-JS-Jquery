@@ -11,10 +11,9 @@ Most of the following screenshots have a lot of animations in them which you wil
 ### Accordion
 ![Accordion](https://user-images.githubusercontent.com/86184439/122727073-459f6980-d294-11eb-9a93-abd55b5a1c8b.PNG) 
 
-|### Left Panel | ### Left Panel (2)|
+| ### Left Panel | ### Left Panel (2)|
 ---|---
-|![Left Panel](https://user-images.githubusercontent.com/86184439/122728794-18ec5180-d296-11eb-8e6b-759a3934183e.PNG)|
-![Left Panel (2)](https://user-images.githubusercontent.com/86184439/122735600-cfebcb80-d29c-11eb-8a82-9d6722702551.PNG)|
+|![Left Panel](https://user-images.githubusercontent.com/86184439/122728794-18ec5180-d296-11eb-8e6b-759a3934183e.PNG)|![Left Panel (2)](https://user-images.githubusercontent.com/86184439/122735600-cfebcb80-d29c-11eb-8a82-9d6722702551.PNG)|
 
 ### Hierarchy Diagram 
 The following diagram is from the Spotfire textarea only, it doesn't have any resemblance with hierarchiral visualisation as far the code is concern, although it appears to be static at first glance but it includes a beautiful animation in it. I hope you will like it. You will find the code to replicate this, above.
