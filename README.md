@@ -13,7 +13,7 @@ Most of the following screenshots have a lot of animations in them which you wil
 
 ### Left Panel 
 ##### Code for all the 3 left Panels mentioned below are available separately in this repository.
-| Left Panel | Left Panel (2)| ### Left Panel + Accordion
+| Left Panel | Left Panel (2)| Left Panel + Accordion
 ---|---|---
 |![Left Panel](https://user-images.githubusercontent.com/86184439/122728794-18ec5180-d296-11eb-8e6b-759a3934183e.PNG)|![Left Panel (2)](https://user-images.githubusercontent.com/86184439/122735600-cfebcb80-d29c-11eb-8a82-9d6722702551.PNG)|![Left Panel + Accordion](https://user-images.githubusercontent.com/86184439/122737875-18a48400-d29f-11eb-8613-dd74e07f9a82.PNG)|
 
