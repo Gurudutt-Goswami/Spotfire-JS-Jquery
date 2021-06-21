@@ -29,5 +29,5 @@ The following diagram is from the Spotfire textarea only, it doesn't have any re
 ![Mac Doc](https://user-images.githubusercontent.com/86184439/122739989-2c50ea00-d2a1-11eb-8988-fafee8f773a0.PNG)
 
 ### Pencils
-![Pencils](https://user-images.githubusercontent.com/86184439/122741536-ad5cb100-d2a2-11eb-9626-dac6a995e263.PNG)
+![Pencils](https://user-images.githubusercontent.com/86184439/122752999-3d085c80-d2af-11eb-9c41-ed7bdb3b7cbe.PNG)
 
