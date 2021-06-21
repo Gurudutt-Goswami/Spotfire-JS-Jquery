@@ -1,5 +1,7 @@
 
 # Spotfire-JS-Jquery
+This repository.
+Most of the following screenshots have a lot of animations in them which you will find once you will replicate them in Tibco Spotfire.
 
 ### Airline Circle Screenshot 
 ![Airline Circle](https://user-images.githubusercontent.com/86184439/122722877-de7fb600-d28f-11eb-86eb-95104d2be4a3.PNG)
