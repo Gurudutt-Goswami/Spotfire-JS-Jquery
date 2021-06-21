@@ -1,5 +1,5 @@
 # Spotfire-JS-Jquery
-This repository.
+This repository contains html,JS & Jquery scripts for use within the Tibco Spotfire textarea. Feel free to play with it to create to something more productive.
 Most of the following screenshots have a lot of animations in them which you will find once you will replicate them in Tibco Spotfire.
 
 ### Airline Circle Screenshot 
