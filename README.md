@@ -1,6 +1,10 @@
 # Spotfire-JS-Jquery
+```
+To get the exact output as that of the following mentioned screenshot only use Tibco Spotfire Textarea.
+The above scripts are only written for use in Spotfire Textarea's 
 This repository contains html,JS & Jquery scripts for use within the Tibco Spotfire textarea. Feel free to play with it to create to something more productive.
 Most of the following screenshots have a lot of animations in them which you will find once you will replicate them in Tibco Spotfire.
+```
 
 ### Airline Circle Screenshot 
 ![Airline Circle](https://user-images.githubusercontent.com/86184439/122722877-de7fb600-d28f-11eb-86eb-95104d2be4a3.PNG)
