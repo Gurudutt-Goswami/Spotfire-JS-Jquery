@@ -10,3 +10,5 @@
 ### Accordion
 ![Accordion](https://user-images.githubusercontent.com/86184439/122727073-459f6980-d294-11eb-9a93-abd55b5a1c8b.PNG)
 
+### Left Panel
+![Left Panel](https://user-images.githubusercontent.com/86184439/122728029-54d2e700-d295-11eb-84e4-3f225f43cd73.PNG)
