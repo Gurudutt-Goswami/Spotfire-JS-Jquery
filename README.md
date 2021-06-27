@@ -33,3 +33,11 @@ The following diagram is from the Spotfire textarea only, it doesn't have any re
 ### Pencils
 ![Pencils](https://user-images.githubusercontent.com/86184439/122752999-3d085c80-d2af-11eb-9c41-ed7bdb3b7cbe.PNG)
 
+### Some Important JS Libararies from Visualisations perspective
+  1) https://d3js.org/
+  2) https://plotly.com/javascript/
+  3) https://www.zingchart.com/
+  4) https://developers.google.com/chart/interactive/docs/gallery
+  5) https://www.amcharts.com/javascript-charts/
+
+
