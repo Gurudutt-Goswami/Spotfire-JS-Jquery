@@ -1,8 +1,7 @@
 # Spotfire-JS-Jquery
 
-1. To get the exact output as that of the following mentioned screenshot only use Tibco Spotfire Textarea.
-2. This repository contains html,JS & Jquery scripts for use within the Tibco Spotfire textarea. Feel free to play with it to create to something more productive.
-3. Most of the following screenshots have a lot of animations in them which you will find once you will replicate them in Tibco Spotfire.
+1. Most of the following screenshots have some animations in them which you will find once you will replicate them in TIBCO SPOTFIRE TEXTAREA ONLY. 
+2. Feel free to play with it to create to something more productive.
 
 ### Some Important JS Libararies from Visualisations perspective
   1) https://d3js.org/
