@@ -49,16 +49,20 @@ The following diagram is from the Spotfire textarea only, it doesn't have any re
 
 ### Other Basic Things
 ```
+//Hover Function to change background color 
 $( "#hover" ).hover(
 function() {$( this ).css("background-color","orange");}, 
 function() {$( this ).css("background-color","#FCD5CE");});
 
+//Click function to get an alert
 $("#click").click(
 function(){ alert("You clicked this button !")	})
 
+//Animating height of a div on click
 $("#animate").click(function(){
 $("#animate_this").animate({height:"toggle"});});
 
+//Animating width of a div on click
 $("#animate_hori").click(function(){
 $("#animate_horizontally").animate({width:"toggle"});});
 ```
