@@ -10,6 +10,15 @@
   4) https://developers.google.com/chart/interactive/docs/gallery
   5) https://www.amcharts.com/javascript-charts/
 
+### Dashboard Links
+1) [Airline Circle](#Airline-Circle)
+2) [Box Toggle](#Box-Toggle)
+3) [Accordion](#Accordion)
+4) [Left Panel](#Left-Panel)
+5) [Hierarchy Diagram](#Hierarchy-Diagram)
+6) [Mac Doc](#Mac-Doc)
+7) [Pencils](#Pencils)
+8) [Other Basic Things](#Other-Basic-Things)
 
 ### Airline Circle
 ![Airline Circle](https://user-images.githubusercontent.com/86184439/122722877-de7fb600-d28f-11eb-86eb-95104d2be4a3.PNG)
@@ -38,5 +47,18 @@ The following diagram is from the Spotfire textarea only, it doesn't have any re
 ### Pencils
 ![Pencils](https://user-images.githubusercontent.com/86184439/122752999-3d085c80-d2af-11eb-9c41-ed7bdb3b7cbe.PNG)
 
+### Other Basic Things
+```
+$( "#hover" ).hover(
+function() {$( this ).css("background-color","orange");}, 
+function() {$( this ).css("background-color","#FCD5CE");});
 
+$("#click").click(
+function(){ alert("You clicked this button !")	})
 
+$("#animate").click(function(){
+$("#animate_this").animate({height:"toggle"});});
+
+$("#animate_hori").click(function(){
+$("#animate_horizontally").animate({width:"toggle"});});
+```
