@@ -19,6 +19,7 @@
 6) [Mac Doc](#Mac-Doc)
 7) [Pencils](#Pencils)
 8) [Other Basic Things](#Other-Basic-Things)
+9) [Accordion_Left_Panel](#Left-Panel-New)
 
 ### Airline Circle
 ![Airline Circle](https://user-images.githubusercontent.com/86184439/122722877-de7fb600-d28f-11eb-86eb-95104d2be4a3.PNG)
@@ -46,6 +47,12 @@ The following diagram is from the Spotfire textarea only, it doesn't have any re
 
 ### Pencils
 ![Pencils](https://user-images.githubusercontent.com/86184439/122752999-3d085c80-d2af-11eb-9c41-ed7bdb3b7cbe.PNG)
+
+
+### Left-Panel-New
+![Left-Panel-New]<img width="176" alt="left panel" src="https://github.com/Gurudutt-Goswami/Spotfire-JS-Jquery/assets/86184439/3e5f7bc6-71b1-4e32-9499-5731c4734b77">
+
+
 
 ### Other Basic Things
 #### Hover Function to change background color 
