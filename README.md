@@ -50,7 +50,7 @@ The following diagram is from the Spotfire textarea only, it doesn't have any re
 
 
 ### Left-Panel-New
-![Left-Panel-New]<img width="176" alt="left panel" src="https://github.com/Gurudutt-Goswami/Spotfire-JS-Jquery/assets/86184439/3e5f7bc6-71b1-4e32-9499-5731c4734b77">
+<img width="176" alt="left panel" src="https://github.com/Gurudutt-Goswami/Spotfire-JS-Jquery/assets/86184439/3e5f7bc6-71b1-4e32-9499-5731c4734b77">
 
 
 
